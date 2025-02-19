@@ -3,7 +3,7 @@ title: "Reflections: 2.09-2.14"
 date: 2024-02-14
 ---
 # Summary
-This week saw a lot of great progress at the lab, an exciting update from Jay, and the beginning of working on song translations with Savta. It is also the second full week of walking Louie and Bernie (🐶) with my parents everyday, the second day of waking up at 5:30am (with no alarm clock! "you're gettting old," said Alvin - my barber), the second week of cooking Shabbat dinner with Savta, and my first real day of blogging. 🤭 
+This week saw a lot of great progress at the lab and the beginning of working on song translations with Savta. It is also the second full week of walking Louie and Bernie (🐶) with my parents everyday, the second week of cooking Shabbat dinner with Savta, and my first real day of blogging. 🤭 
 
 ## HivE Research
 On Monday, I gave a presentation on my work relating to reproducing some figures in Dr. Hyman's 2017 paper[^1]. I was very pleased; whereas the first such presentation was a paper overview, this presentation was all about my approach to actually scripting a reproduction of Fig. 2A - and an RA even told me I had made "coding look fun" for him, 🫂. Otherwise, I began long-awaited work on MATLAB related to my dynamic systems reconstruction (DSR) project.  
@@ -23,7 +23,7 @@ Why is this all relevant to me, exactly? Perhaps a DSR-based approach might prov
 None this week. However, I found another textbook - [Brunton & Kutz's *Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control*](https://www.databookuw.com/) - which looks approachable, well-written, and recent. I may start reading from it soon. Then again, I may not. I'm already reading through [Strogatz's *Nonlinear Dynamics and Chaos*](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering), and have the best intentions of self-studying UC Berkeley's [Sp'21 offering of CS 182](https://cs182sp21.github.io/), for which I am perusing [Bishop & Bishop's *Deep Learning: Foundations and Concepts*](https://www.bishopbook.com/). I probably shouldn't bother with another textbook - or, if I do, I should re-evaluate which textbooks/courses feel relevant to "keep".
 
 ## Job Search 
-No active searching on my end this week. However, things seem to be moving forward with Jay and his startup; more on that later, hopefully. 
+No active searching on my end this week. 
 
 ## Languages
 ### Hebrew 
