@@ -29,15 +29,15 @@ None this week. However, I found another textbook - [Brunton & Kutz's *Data-Driv
 ## Job Search 
 No active searching on my end this week. 
 
+## *Sipurei Savta* 
+No updates this week, though I do hope to get back into transcribing and translating soon. 
+
 ## Languages
 ### Hebrew 
 This week I finally got to reading through song lyrics (״דברים שרציתי לומר״, *"dvarim sh'ratziti lomar"*, sung by Yehuda Poliker) with Savta. Translating songs together has been a goal of mine for forever. I chose to translate this song in particular because I hope to build towards reading a [*Haaretz* article about its lyricist](https://www.haaretz.co.il/gallery/music/2025-02-12/ty-article-magazine/.premium/00000194-f920-d3a7-a1fc-f96e3a770000), Yankele Rotblit, together. She seemed genuinely interested, too.
 
 ### Spanish
-No updates this week. However, I'd like to get back into reading my copy of Penguin's parallel text [*Cuentos en español*](https://citylights.com/story-anthologies/new-penguin-parallel-text-ss-in-spanish/). I started it while traveling in Mexico City with Sarah, but I've since put it down. Hopefully I'll have more substantive updates next week. 
-
-## Sipurei Savta 
-No updates this week, though I do hope to get back into transcribing and translating soon.  
+No updates this week. However, I'd like to get back into reading my copy of Penguin's parallel text [*Cuentos en español*](https://citylights.com/story-anthologies/new-penguin-parallel-text-ss-in-spanish/). I started it while traveling in Mexico City with Sarah, but I've since put it down. Hopefully I'll have more substantive updates next week.  
 
 [^1]: Hyman, J. M., Holroyd, C. B., & Seamans, J. K. (2017). A novel neural prediction error found in anterior cingulate cortex ensembles. Neuron, 95(2). https://doi.org/10.1016/j.neuron.2017.06.021 
 [^2]: Wirt, R. A., Soluoku, T. K., Ricci, R. M., Seamans, J. K., & Hyman, J. M. (2024). Temporal information in the anterior cingulate cortex relates to accumulated experiences. Current Biology, 34(13). https://doi.org/10.1016/j.cub.2024.05.045
