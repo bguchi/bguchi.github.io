@@ -7,7 +7,8 @@ date: 2024-02-21
 ### Projects
 ### Textbook Learning
 ## Job Search 
+## *Sipurei Savta*
 ## Languages
 ### Hebrew
 ### Spanish
-## *Sipurei Savta*
+## Blogging
