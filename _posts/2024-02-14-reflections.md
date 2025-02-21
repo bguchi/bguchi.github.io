@@ -1,5 +1,5 @@
 ---
-title: "Reflections: 2.09-2.14"
+title: "Reflections: 2.10-2.14"
 date: 2024-02-14
 ---
 # Summary
@@ -35,15 +35,6 @@ This week I finally got to reading through song lyrics (״דברים שרצית�
 
 ### Spanish
 No updates this week. However, I'd like to get back into reading my copy of Penguin's parallel text [*Cuentos en español*](https://citylights.com/story-anthologies/new-penguin-parallel-text-ss-in-spanish/). I started it while traveling in Mexico City with Sarah, but I've since put it down. Hopefully I'll have more substantive updates next week. 
-
-### Japanese
-No updates this week, and no tangible plans for the near future. (Despite teasing the idea of contacting UNLV's Japanese department.) 
-
-### French
-No updates this week, and no plans for the near future (besides Duolingo). 
-
-### Arabic
-No updates this week, and no plans for the near future (besides Duolingo). 
 
 ## Sipurei Savta 
 No updates this week, though I do hope to get back into transcribing and translating soon.  
