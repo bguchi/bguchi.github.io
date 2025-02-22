@@ -26,13 +26,13 @@ No updates this week, again. Oof.
 
 ## Languages
 ### Hebrew
-I spent more time reading through and translating ____.  
+I spent more time reading through and translating ״דברים שרציתי לומר״, "dvarim sh'ratziti lomar", sung by Yehuda Poliker, lyrics by Yankele Rotblit.  
 
 ### Spanish
 No updates this week, again. Oof. 
 
 ## Blogging
-I collected some resources relevant to blogging in [this]() post. 
+I collected some resources relevant to blogging in [this](2024-02-16-blog-resources.md) post. 
 
 [^1]: Hyman, J. M., Holroyd, C. B., & Seamans, J. K. (2017). A novel neural prediction error found in anterior cingulate cortex ensembles. Neuron, 95(2). https://doi.org/10.1016/j.neuron.2017.06.021
 [^2]: Monfared, Z. & Durstewitz, D.. (2020). Transformation of ReLU-based recurrent neural networks from discrete-time to continuous-time. *Proceedings of the 37th International Conference on Machine Learning*, in *Proceedings of Machine Learning Research* 119:6999-7009. Available from https://proceedings.mlr.press/v119/monfared20a.html
