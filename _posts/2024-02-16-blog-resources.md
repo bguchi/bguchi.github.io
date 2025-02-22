@@ -1,6 +1,6 @@
 ---
 title: Learning to blog  
-date: 2024-02-10
+date: 2024-02-16
 ---
 As I continue to work on making this blog look and act the way I want it to, I figured that I should also document the resources I've been using along the way: 
 
