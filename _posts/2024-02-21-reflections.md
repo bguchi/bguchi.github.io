@@ -27,7 +27,7 @@ A colleague of my mentor's
 ### Spanish
 ## Blogging
 
-[^1]:
+[^1]: Hyman, J. M., Holroyd, C. B., & Seamans, J. K. (2017). A novel neural prediction error found in anterior cingulate cortex ensembles. Neuron, 95(2). https://doi.org/10.1016/j.neuron.2017.06.021
 [^2]: Monfared, Z. & Durstewitz, D.. (2020). Transformation of ReLU-based recurrent neural networks from discrete-time to continuous-time. *Proceedings of the 37th International Conference on Machine Learning*, in *Proceedings of Machine Learning Research* 119:6999-7009. Available from https://proceedings.mlr.press/v119/monfared20a.html
 [^3]: Brunton, S. L., Proctor, J. L., & Kutz, J. N. (2016). Discovering governing equations from data by sparse identification of nonlinear dynamical systems. Proceedings of the National Academy of Sciences, 113(15), 3932–3937. https://doi.org/10.1073/pnas.1517384113 
 [^4]: Durstewitz, D., Koppe, G. & Thurm, M.I. Reconstructing computational system dynamics from neural data with recurrent neural networks. Nat. Rev. Neurosci. 24, 693–710 (2023). https://doi.org/10.1038/s41583-023-00740-7
