@@ -19,14 +19,14 @@ This week Dr. Hyman and I met a number of times to discuss something like symbol
 None this week, again. Oof. 
 
 ## Job Search
-A colleague of my mentor's forwarded a posting for a technical response internship. I haven't done anything besides responding that I am interested.  
+A colleague of my mentor's forwarded a posting for a technical incidence response internship. I haven't done anything besides responding that I am interested. That interest has grown while reading a bit about Douglas Engelbart's pioneering work on interactive computing in M. Mitchell Waldrop's [*The Dream Machine*](https://press.stripe.com/the-dream-machine). I feel that there are some parallels between Engelbart's interactive computing so described with the conceptual and technical roadblocks faced by budding (neuro)scientists. I think these obstacles are representative of issues with knowledge [distillation](https://distill.pub/2017/research-debt/) as well as current limitations in how scientific computing is conceptualized and taught to young researchers.    
 
 ## *Sipurei Savta*
 No updates this week, again. Oof. 
 
 ## Languages
 ### Hebrew
-I spent more time reading through and translating ״דברים שרציתי לומר״, "dvarim sh'ratziti lomar", sung by Yehuda Poliker, lyrics by Yankele Rotblit.  
+I spent more time reading through and translating Yankele Rotblit's ״דברים שרציתי לומר״ ("dvarim sh'ratziti lomar", sung by Yehuda Poliker).  
 
 ### Spanish
 No updates this week, again. Oof. 
